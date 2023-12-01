@@ -1,0 +1,60 @@
+.All{
+    display: flex;
+    flex-direction: row;
+    margin-top: -40%;
+    justify-content: center;
+    align-items: center;
+    margin-right: -82%;
+    border-bottom-width: 5px;
+    border-color: white;
+    border-bottom-style: solid;
+    padding-bottom: 10%;
+    margin-left: -1%;
+
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+
+.text{
+    font-family: "Helvetica", Arial, sans-serif;
+    margin-left: 6%;
+    margin-top: -3%;
+    gap: 1%;
+}
+
+h1{
+    font-family: "Helvetica", Arial, sans-serif;
+    color: white;
+}
+h3{
+    font-family: "Helvetica", Arial, sans-serif;
+    color: gray;
+    margin-top: -13%;
+}
+
+
+@media (max-width: 400px) {
+    .All {
+      max-width: 60%;
+      margin-top: -495px;
+     margin-left: -35px;
+     border: 0px;
+    }
+
+    h1{
+        font-family: "Helvetica", Arial, sans-serif;
+        font-size: 18px;
+    }
+    h3{
+        font-family: "Helvetica", Arial, sans-serif;
+        font-size: 12px;
+    }
+
+    img{
+
+        width: 70px;
+        height: 40px;
+    }
+  }

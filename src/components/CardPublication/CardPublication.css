@@ -1,0 +1,52 @@
+.mid{
+    display: flex;
+    flex-direction: column;
+    margin-left: 33%;
+    width: 98%;
+    height: 80%;
+    margin-top: 13%;
+
+}
+
+.all{
+    background-color: rgb(255, 255, 255);
+    width: 83%;
+    margin-top: 3%;
+    margin-right: 17%;
+    margin-left: 6%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4%;
+}
+
+img{
+    margin-left: 8%;
+    border-radius: 3%;
+    margin-top: 2%;
+}
+
+h3{
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+.Name{
+    margin-left: 3%;
+}
+
+.UserName{
+    color: #8E8E8E;
+    margin-top: -5%;
+    margin-left: 3%;
+}
+
+p{
+    font-family: "Helvetica", Arial, sans-serif;
+    margin-left: 1%;
+}
+
+.likeAppart{
+    margin-left: 37%;
+    margin-bottom: 4%;
+    margin-top: 2%;
+
+}

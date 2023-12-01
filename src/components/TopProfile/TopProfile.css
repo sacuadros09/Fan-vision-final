@@ -1,0 +1,37 @@
+.topprofile{
+    display: flex;
+    flex-direction: column;
+    width: 1%;
+    position: fixed;
+    margin-left: 74%;
+    margin-top: 0%;
+    border-color: white;
+    border-left-width: 5px;
+    border-left-style: solid;
+    height: 100%;
+}
+
+.home_logo{
+    margin-left: 378%;
+    margin-top: 113%;
+}
+
+.nameprofile{
+    margin-top: -437%;
+    margin-left: 1049%;
+}
+
+.subnameprofile{
+    margin-top: -262%;
+    margin-left: 1049%;
+}
+
+h2{
+    color: white;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+h3{
+    color: #8E8E8E;
+    font-family: "Helvetica", Arial, sans-serif;
+}

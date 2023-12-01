@@ -1,0 +1,82 @@
+.right{
+    display: flex;
+    flex-direction: column;
+    width: 26%;
+    position: fixed;
+    margin-left: 74%;
+    margin-top: 10%;
+    border-color: white;
+    border-top-width: 5px;
+    border-top-style: solid;
+
+}
+
+.down{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 20%;
+    padding: 5%;
+}
+
+.topfriends{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+
+}
+
+.friends{
+    color: white;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+h2{
+    color: white;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+h3{
+    color: #8E8E8E;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+
+.pepito{
+    margin-top: -82%;
+    margin-left: 30%;
+}
+
+.subnamepepito{
+    margin-top: -74%;
+    margin-left: 31%;
+}
+
+.sacuma{
+    margin-top: 25%;
+    margin-left: 30%;
+}
+
+.subnamesacuma{
+    margin-top: 26%;
+    margin-left: 31%;
+
+}
+
+
+.jayco{
+    margin-top: 25%;
+    margin-left: 30%;
+}
+
+.subnamejayco{
+    margin-top: 26%;
+    margin-left: 31%;
+
+}
